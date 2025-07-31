@@ -26,7 +26,7 @@ The objective is to build a robust pipeline for automated sound classification a
 ├── results/            # Evaluation reports, metrics, graphs
 ├── README.md           # Project overview
 └── requirements.txt    # Python dependencies
-
+```
 ---
 
 ## **Clone the repository**
