@@ -20,12 +20,12 @@ The objective is to build a robust pipeline for automated sound classification a
 ```bash
 .
 ├── data/               # Raw and processed audio data
-├── notebooks/          # Jupyter notebooks for EDA, training, testing
-├── src/                # Source code for preprocessing, models, utils
 ├── models/             # Saved models and training checkpoints
 ├── results/            # Evaluation reports, metrics, graphs
 ├── README.md           # Project overview
-└── requirements.txt    # Python dependencies
+├── Rrequirements.txt   # Python dependencies
+├── train_ast.py        # AST transformer traiing script
+└── train.sh            # shell script for easy training setup
 ```
 ---
 
