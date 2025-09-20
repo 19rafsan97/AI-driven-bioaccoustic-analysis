@@ -1,0 +1,26 @@
+                           precision    recall  f1-score   support
+
+Acrocephalus arundinaceus     0.8406    0.9355    0.8855        62
+ Acrocephalus melanopogon     0.6792    0.5902    0.6316        61
+  Acrocephalus scirpaceus     0.8734    0.9673    0.9180       214
+            Alcedo atthis     0.9726    0.9103    0.9404        78
+   Anas (Mareca) strepera     0.5814    1.0000    0.7353        25
+       Anas platyrhynchos     0.9851    0.5323    0.6911       124
+           Ardea purpurea     0.2500    0.5000    0.3333        16
+       Botaurus stellaris     1.0000    1.0000    1.0000        71
+  Charadrius alexandrinus     0.8919    1.0000    0.9429        33
+          Ciconia ciconia     0.9626    1.0000    0.9810       103
+       Circus aeruginosus     1.0000    0.7761    0.8739        67
+        Coracias garrulus     0.0000    0.0000    0.0000         0
+        Dendrocopos minor     0.9800    1.0000    0.9899        49
+              Fulica atra     0.9655    1.0000    0.9825        28
+      Gallinula chloropus     1.0000    0.9744    0.9870        39
+    Himantopus himantopus     0.9692    0.9767    0.9730       258
+       Ixobrychus minutus     0.9643    1.0000    0.9818        27
+          Motacilla flava     1.0000    0.9815    0.9907        54
+      Porphyrio porphyrio     0.9184    0.9000    0.9091       100
+   Tachybaptus ruficollis     1.0000    0.9655    0.9825        87
+
+                 accuracy                         0.9031      1496
+                macro avg     0.8417    0.8505    0.8365      1496
+             weighted avg     0.9269    0.9031    0.9066      1496

@@ -1,0 +1,7 @@
+envAst
+data/*
+*.pt
+*.csv
+*.json
+results/ast_wwmwb/tb/
+
